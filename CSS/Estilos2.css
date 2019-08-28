@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(243, 0, 49);
+
+}
+
+h1{
+      font-family: 'Times New Roman', Times, serif;
+      color:white;
+}
+
+input{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+}
+
+label{
+    color: white;
+}
+
+a{
+    font-size: 150%;
+    color: #ffffff;
+    text-decoration: none;
+}
